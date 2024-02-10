@@ -1,0 +1,39 @@
+Scope :
+    - User Management Module
+        - User Registration
+            - Consumer (one who places the order)
+            - Vendors (Shop keepers, restaurant owners)
+            - Delivery Person
+            - Employee
+                - Sales Executive
+                - Helpdesk
+                - Vendor relationshp manager
+        - User Authentication
+            - Username / password based authentication
+            - username can be email
+        - User Profile Management
+            - Form to change user Data
+        - Role-based Access Control (RBAC)
+        - User Activity Monitoring
+        - Password Management
+        - User Deactivation/Deletion 
+
+- Order Management
+    - Order Creation
+    - Order Processing
+    - Inventory management.
+    - Order Tracking
+    - Payment Processing
+    - Returns management.
+- Promotions and Discounts Module
+    - Promotion creation.
+    - Discount calculation.
+    - Promotion targeting.
+    - Coupon code generation
+    - Coupon code redemption
+- Inventory Management Module
+    - Inventory Tracking
+    - Stock level monitoring
+    - Replenishment management
+= Admin Dashboard
+    - <Decide Later>

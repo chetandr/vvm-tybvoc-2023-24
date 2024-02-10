@@ -1,0 +1,40 @@
+User Data Modal
+    - Contact Information:
+        - Full Name
+        - Email Address
+        - Phone Number
+        - Mailing Address (including street address, city, state, postal code, Landmark)
+    - Account Information:
+        - Username
+        - Password (encrypted for security)
+        - Account ID (unique identifier)
+    - Preferences:
+        - Preferred Delivery Time/Window
+        - Preferred Communication Channel (email, SMS, push notifications)
+        - Language Preferences
+        - Delivery Instructions (e.g., gate code, building access instructions)
+
+    - Order History:
+        - List of Previous Orders
+        - Order Details (items ordered, order date, order status, tracking information)
+        - Payment History (invoices, receipts)
+
+    - Notification Settings:
+        - Preferences for Order Status Updates
+        - Promotional Offers and Discounts Opt-in/Opt-out
+
+    - Feedback and Reviews:
+        - Ratings and Reviews for Past Deliveries
+        - Feedback on Overall Experience
+
+    - Account Status:
+        - Account Activation Status
+        - Membership Level (if applicable, such as premium membership)
+
+    - Social Media Integration:
+        - Optional integration with social media profiles for authentication and sharing feedback (if desired by the user)
+
+    - Demographic Information:
+        - Age
+        - Gender (if desired)
+        - Other Demographic Details (optional and with user consent)

@@ -1,0 +1,23 @@
+- REST API with Express/Nodejs 
+    - Data Fetching from a flat file. : Done
+    - Data Fetching from MongoDB : 9th Feb - Session 0
+    - Data Modeling for each module : 10th Feb - Session 1, Session 2
+        - Define Feature Set
+        - Functions CRUD operations
+    - Import Data into MongoDb - Session 3
+        - CRUD APIS for all data. - Session 3, Session 4
+- Front end using ReactJS
+    - Initial Setup and Getting started Tutorial - Session 5
+    - Define components - Session 6
+    - Implement Components - Session 7 to Session 11
+    - Implementing Pages : Session 12, Session 13
+    - Integration with Rest API - Session 14
+    - Data Binding : Session 15
+    - Work on User Journeys : Session 16
+    - Implementing the Journeys: Session 17 to Session 20
+- Testing
+    - Test case Writing: Session 21
+    - Test Execution : Session 22
+- Deployment  : Session 23
+
+
