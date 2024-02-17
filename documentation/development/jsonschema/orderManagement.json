@@ -1,0 +1,67 @@
+{
+    "orders": [
+      {
+        "order_id": 1,
+        "customer_name": "John Doe",
+        "customer_email": "john.doe@example.com",
+        "order_date": "2024-02-15",
+        "shipping_address": {
+          "street": "123 Main St",
+          "city": "Anytown",
+          "state": "CA",
+          "postal_code": "12345",
+          "country": "USA"
+        },
+        "items": [
+          {
+            "product_id": 1,
+            "product_name": "Product A",
+            "quantity": 2,
+            "unit_price": 10.99,
+            "total_price": 21.98
+          },
+          {
+            "product_id": 3,
+            "product_name": "Product C",
+            "quantity": 1,
+            "unit_price": 15.49,
+            "total_price": 15.49
+          }
+        ],
+        "subtotal": 37.47,
+        "tax": 2.50,
+        "shipping_fee": 5.00,
+        "total_price": 45.97,
+        "payment_method": "Credit Card",
+        "status": "Pending"
+      },
+      {
+        "order_id": 2,
+        "customer_name": "Jane Smith",
+        "customer_email": "jane.smith@example.com",
+        "order_date": "2024-02-15",
+        "shipping_address": {
+          "street": "456 Elm St",
+          "city": "Othertown",
+          "state": "NY",
+          "postal_code": "54321",
+          "country": "USA"
+        },
+        "items": [
+          {
+            "product_id": 2,
+            "product_name": "Product B",
+            "quantity": 1,
+            "unit_price": 24.99,
+            "total_price": 24.99
+          }
+        ],
+        "subtotal": 24.99,
+        "tax": 1.75,
+        "shipping_fee": 5.00,
+        "total_price": 31.74,
+        "payment_method": "PayPal",
+        "status": "Shipped"
+      }
+    ]
+  }

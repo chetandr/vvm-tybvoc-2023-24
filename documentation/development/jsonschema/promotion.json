@@ -1,0 +1,46 @@
+{
+    "Promotion": [
+      {
+        "promotion_id": 1,
+        "name": "Free Delivery",
+        "start_date": "2024-02-15",
+        "end_date": "2024-02-28",
+        "description": "Get free delivery on all orders over 500",
+        "type": "Discount",
+        "amount": 0,
+        "status": "Active",
+        "created_at": "2024-02-15T10:00:00",
+        "updated_at": "2024-02-15T10:00:00"
+      }
+    ],
+    "Product": [
+      {
+        "product_id": 101,
+        "name": "Running Shoes",
+        "description": "High-performance running shoes",
+        "price": 79.99,
+        "category_id": 1
+      }
+    ],
+    "Category": [
+      {
+        "category_id": 1,
+        "name": "Footwear"
+      }
+    ],
+    "PromotionProductMapping": [
+      {
+        "promotion_id": 1,
+        "product_id": 101
+      }
+    ],
+    "UserPromotionRedemption": [
+      {
+        "redemption_id": 1,
+        "user_id": 12345,
+        "promotion_id": 1,
+        "redeemed_at": "2024-02-15T12:30:00"
+      }
+    ]
+  }
+  

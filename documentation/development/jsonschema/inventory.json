@@ -1,0 +1,28 @@
+{
+    "inventory": [
+      {
+        "id": 1,
+        "name": "Product A",
+        "description": "Description of Product A",
+        "quantity": 100,
+        "price": 10.99,
+        "category": "Category A"
+      },
+      {
+        "id": 2,
+        "name": "Product B",
+        "description": "Description of Product B",
+        "quantity": 50,
+        "price": 24.99,
+        "category": "Category B"
+      },
+      {
+        "id": 3,
+        "name": "Product C",
+        "description": "Description of Product C",
+        "quantity": 75,
+        "price": 15.49,
+        "category": "Category A"
+      }
+    ]
+  }
