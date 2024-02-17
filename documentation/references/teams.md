@@ -16,3 +16,4 @@
   - Henritta
   - Tanish
   - Aditi
+  - Maynard
