@@ -1,0 +1,101 @@
+{
+    "customer": {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "password": "securepassword123",
+      "phone": "+1234567890",
+      "address": {
+        "street": "123 Main Street",
+        "city": "New York",
+        "state": "NY",
+        "postal_code": "10001",
+        "country": "USA"
+      },
+      "notification_preferences": ["email", "app"],
+      "order_history": []
+    }
+  }
+  
+  
+  {
+    "employee": {
+      "name": "Jane Smith",
+      "employee_id": "EMP123",
+      "email": "jane.smith@example.com",
+      "password": "securepassword456",
+      "phone": "+9876543210",
+      "role": "Delivery Driver",
+      "shift_schedule": "9 AM - 5 PM",
+      "location": "Main Warehouse",
+      "emergency_contact": {
+        "name": "John Doe",
+        "phone": "+123456789"
+      },
+      "address": {
+        "street": "456 Delivery Street",
+        "city": "Cityville",
+        "state": "CA",
+        "postal_code": "90210",
+        "country": "USA"
+      },
+      "employment_status": "Full-time"
+    }
+  }
+  
+  
+  {
+    "delivery_person": {
+      "name": "Alex Johnson",
+      "employee_id": "DP001",
+      "email": "alex.johnson@example.com",
+      "password": "securepassword789",
+      "phone": "+8765432109",
+      "vehicle_information": {
+        "license_plate": "XYZ123",
+        "vehicle_type": "Motorcycle"
+      },
+      "shift_schedule": "12 PM - 8 PM",
+      "delivery_area": "Downtown Area",
+      "emergency_contact": {
+        "name": "Mary Johnson",
+        "phone": "+987654321"
+      },
+      "address": {
+        "street": "789 Delivery Lane",
+        "city": "Citytown",
+        "state": "CA",
+        "postal_code": "90403",
+        "country": "USA"
+      },
+      "employment_status": "Part-time"
+    }
+  }
+  
+  {
+    "merchant": {
+      "business_name": "SuperMart",
+      "merchant_id": "MRT001",
+      "email": "info@supermart.com",
+      "password": "securepassword123",
+      "phone": "+1234567890",
+      "business_address": {
+        "street": "456 Market Street",
+        "city": "Cityville",
+        "state": "CA",
+        "postal_code": "90210",
+        "country": "USA"
+      },
+      "type_of_business": "Grocery Store",
+      "products_services": "Fresh produce, groceries, household items",
+      "payment_preferences": ["Credit Card", "Cash on Delivery"],
+      "delivery_preferences": {
+        "delivery_time_windows": "9 AM - 1 PM, 3 PM - 7 PM",
+        "packaging_requirements": "Handle with care"
+      },
+      "contact_person": {
+        "name": "John Smith",
+        "phone": "+987654321"
+      },
+      "operating_hours": "8 AM - 10 PM"
+    }
+  }
